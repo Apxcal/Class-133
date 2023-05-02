@@ -1,0 +1,26 @@
+body{
+    background-size:cover;
+}
+
+.heading{
+    width:100%;
+    font-size:25px;
+    margin-top:0;
+    background-color:cyan;
+    color:darkslateblue;
+}
+
+.heading2{
+    font-size:20px;
+    width:25%;
+    background-color:blue;
+    color:beige;
+}
+
+.anchor{
+    color:indigo;
+    font-size:30px;
+    padding:5px;
+    margin:20px;
+    width:25%;
+}
